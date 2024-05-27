@@ -3,3 +3,13 @@ This project explores the use of a [flocking algorithm](https://codeheir.com/202
 Built in Unity Engine 2020.3.25f1.
 
 Here’s a video showcasing the project! 
+
+<br>
+
+---
+
+<br>
+
+<img src="https://github.com/Eeelis/flocker/blob/main/Images/Flock.png" width="1200">
+
+<br>
