@@ -2,7 +2,7 @@ This project explores the use of a [flocking algorithm](https://codeheir.com/202
 
 Built in Unity Engine 2020.3.25f1.
 
-[Here’s](https://youtu.be/zwUH_TNEyfY) a video showcasing the project! 
+[Here](https://youtu.be/zwUH_TNEyfY) is a video showcasing the project! 
 
 <br>
 
